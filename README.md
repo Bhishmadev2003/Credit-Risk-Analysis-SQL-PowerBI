@@ -9,7 +9,7 @@ This project is an **end-to-end Credit Risk Analysis** workflow where I worked w
 - **Power BI** → Built an interactive dashboard with 6+ visuals to present insights clearly.  
 
 ## 🔎 Key Insights  
-- **78% of loans** are successfully repaid.  
+- **22% of loans** are successfully repaid.  
 - Borrowers aged **22–25** take the largest share of loans.  
 - **Education & Medical loans** dominate the portfolio.  
 - **Mortgage holders** request the highest average loan amounts.  
